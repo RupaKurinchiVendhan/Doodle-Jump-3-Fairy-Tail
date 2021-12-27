@@ -4,6 +4,8 @@
 
 Doodle Jump 3 is a woodlands-themed platforming video game in which you guide Doodle up a series of neverending platforms to constantly beat your high score. The code was developed as the final project for CS 3 - Introduction to Software Engineering at Caltech. 
 
+Learn more by watching our [trailer](https://youtu.be/m6TEaZeVRS8).
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/68130818/147496291-7cdb2e99-05ef-4494-89d2-070691f9beca.png" alt="Doodle Jump 3: Fairy Tail Character and Artwork"/>
 </p>
