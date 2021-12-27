@@ -4,9 +4,8 @@
 
 Doodle Jump 3 is a woodlands-themed platforming video game in which you guide Doodle up a series of neverending platforms to constantly beat your high score. The code was developed as the final project for CS 3 - Introduction to Software Engineering at Caltech. 
 
-<p align="center">
-   ![Doodle Jump 3](https://user-images.githubusercontent.com/68130818/147496291-7cdb2e99-05ef-4494-89d2-070691f9beca.png)
-<\p>
+![Doodle Jump 3](https://user-images.githubusercontent.com/68130818/147496291-7cdb2e99-05ef-4494-89d2-070691f9beca.png)
+
 
 
 ### Game Progression
